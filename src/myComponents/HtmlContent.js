@@ -205,7 +205,7 @@ export const HtmlContent = () => {
     left: "69vw",
     fontSize: "1.4em"
   }}>
-       ThreeJs</p>
+       NodeJs</p>
        <p style={{
     color:"white",
     position: "absolute",
@@ -213,7 +213,7 @@ export const HtmlContent = () => {
     left: "81vw",
     fontSize: "1.4em"
   }}>
-       Python</p>
+       ExpressJS</p>
        <p style={{
     color:"white",
     position: "absolute",
